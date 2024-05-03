@@ -1,0 +1,7 @@
+{
+  "name": "PWA + React",
+  "start_url": "/",
+  "display": "fullscreen",
+  "id": "pwa+react+app",
+  "orientation": "portrait"
+}
