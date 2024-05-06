@@ -7,26 +7,26 @@
   "orientation": "landscape",
   "icons": [
     {
-      "src": "./src/assets/min.png",
+      "src": "/min.png",
       "sizes": "32x32"
     },
     {
-      "src": "./src/assets/apple-icon-57x57.png",
+      "src": "/apple-icon-57x57.png",
       "sizes": "57x57"
     },
     {
-      "src": "./src/assets/apple.png",
+      "src": "/apple.png",
       "sizes": "180x180"
     }
   ],
   "screenshots": [
     {
-      "src": "./src/assets/output-onlinepngtools.png",
+      "src": "/output-onlinepngtools.png",
       "sizes": "320x320",
       "form_factor": "wide"
     },
     {
-      "src": "./src/assets/output-onlinepngtools.png",
+      "src": "/output-onlinepngtools.png",
       "sizes": "320x320"
     }
   ]
