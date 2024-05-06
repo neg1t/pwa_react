@@ -1,7 +1,22 @@
 {
   "name": "PWA + React",
+  "background_color": "#000",
   "start_url": "/",
   "display": "fullscreen",
   "id": "pwa+react+app",
-  "orientation": "portrait"
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./src/assets/min.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./src/assets/middle.png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "./src/assets/apple.png",
+      "sizes": "180x180"
+    }
+  ]
 }
