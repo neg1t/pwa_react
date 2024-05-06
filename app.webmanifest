@@ -11,12 +11,23 @@
       "sizes": "32x32"
     },
     {
-      "src": "./src/assets/middle.png",
+      "src": "./src/assets/apple-icon-57x57.png",
       "sizes": "57x57"
     },
     {
       "src": "./src/assets/apple.png",
       "sizes": "180x180"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./src/assets/output-onlinepngtools.png",
+      "sizes": "320x320",
+      "form_factor": "wide"
+    },
+    {
+      "src": "./src/assets/output-onlinepngtools.png",
+      "sizes": "320x320"
     }
   ]
 }
